@@ -15,7 +15,7 @@ def main():
   #Print the story with the user supplied words.
   print("Here is your Madlib!")
   print()
-  print(""", onomatopoeia + """ + "!,", "he said as he", verb, "away from the", adjective, animal + ". He had never felt so", emotion, "in his", number, "years of life!" )
+  print(onomatopoeia + "!,", "he said as he", verb, "away from the", adjective, animal + ". He had never felt so", emotion, "in his", number, "years of life!" )
 
 
 #Call the main function if this is the file being run.
